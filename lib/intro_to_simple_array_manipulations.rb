@@ -22,6 +22,7 @@ def using_shift(arr)
   im_so_over_this_city =arr.shift
 end
 
-def shift_with_args(arr,str)
-  brands_removed = arr.shift(str)
+def shift_with_args(arr)
+  brands_removed = arr.shift(2)
 end
+
