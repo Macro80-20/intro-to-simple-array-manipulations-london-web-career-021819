@@ -9,3 +9,7 @@ end
 def using_unshift(arr,str)
   updated_array = arr.unshift(str)
 end
+
+def using_pop(arr)
+  deleted_string = arr.pop
+end
