@@ -25,4 +25,3 @@ end
 def shift_with_args(arr)
   brands_removed = arr.shift(2)
 end
-
