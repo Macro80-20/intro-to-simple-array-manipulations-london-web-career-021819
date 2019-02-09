@@ -47,5 +47,5 @@ def using_delete(arr,str)
 end
 
 def using_delete_at(arr,int)
-no_offense_steven = arr.delete(int)
+no_offense_steven = arr.delete([int])
 end
