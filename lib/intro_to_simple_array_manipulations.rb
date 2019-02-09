@@ -5,3 +5,7 @@ def using_push(arr,str)
   end
   updated_array.push(next_country)
 end
+
+def using_unshift(arr,str)
+  updated_array = arr.unshift(str)
+end
