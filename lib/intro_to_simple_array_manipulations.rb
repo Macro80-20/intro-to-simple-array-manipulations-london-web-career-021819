@@ -42,7 +42,8 @@ def using_flatten(arr)
 flat_array = arr.flatten
 end
 
-def using_delete
+def using_delete(arr,str)
+  deleted_robot = arr(str)
 end
 
 def using_delete_at
