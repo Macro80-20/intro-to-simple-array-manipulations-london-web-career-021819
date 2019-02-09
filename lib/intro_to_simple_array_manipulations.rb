@@ -43,9 +43,9 @@ flat_array = arr.flatten
 end
 
 def using_delete(arr,str)
-  deleted_robot = arr(str)
+  deleted_robot = arr.delete(str)
 end
 
-def using_delete_at
-
+def using_delete_at(arr,int)
+no_offense_steven = arr.delete(int)
 end
