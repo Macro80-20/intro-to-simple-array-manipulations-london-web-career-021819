@@ -17,3 +17,7 @@ end
 def pop_with_args(arr)
   chars_arya_killed = arr.pop(2)
 end
+
+def using_shift(arr)
+  im_so_over_this_city =arr.shift
+end
