@@ -35,11 +35,11 @@ def using_insert(arr,element)
 end
 
 def using_uniq(arr)
-  new_array = arr.uniq
+  new_array = arr.uniq #removes duplicate items
 end
 
-def using_flatten
-
+def using_flatten(arr)
+flat_array = flatten(arr)
 end
 
 def using_delete
