@@ -13,3 +13,7 @@ end
 def using_pop(arr)
   deleted_string = arr.pop
 end
+
+def pop_with_args(arr)
+  chars_arya_killed = arr.pop(2)
+end
